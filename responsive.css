@@ -1,0 +1,100 @@
+
+
+/* I pad pro */
+@media(max-width:1024px){
+
+    .home .home-banner .home-banner-text h1{
+    font-size: 4rem;
+}    
+
+
+.home .home-banner .home-banner-text{
+    padding: 50px  170px;
+}
+   }
+   
+   
+   @media(min-width:1024px){
+    .home .home-banner-1,
+     .home .home-banner-2{
+         background-position: 70% center;
+   padding-top: 5rem;
+     }
+     }
+   
+   
+   /* i pad  */
+   @media(max-width:768px){
+       
+       .special button {
+           margin-bottom: 1.5rem;
+       }
+       
+        .testimonial .testimonial-area p{
+            font-size: 0.6rem;
+            line-height: 0.90rem;
+            
+        }
+   }
+   
+   
+   
+   /* phone */
+ @media(max-width:435px){
+     
+      .home .home-banner-1,
+     .home .home-banner-2{
+         background-position: 80% center;
+         text-wrap:nowrap;
+         
+         
+     }
+    .home .home-banner .home-banner-text h1{
+    font-size: 1.5rem;
+}
+.home .home-banner .home-banner-text h2{
+    width: 200px;
+    font-size: 1rem;
+    text-wrap:nowrap;
+    margin-left: 1rem ;
+}
+
+.home .home-banner .home-banner-text .btn{
+   font-size: 0.2rem;
+   padding: 4px;
+   top: 18rem;
+   z-index: 77;
+  }
+
+
+.home .carousel-indicators [data-bs-target]{
+    width: .5rem;
+    height: .5rem;
+    
+}
+.home .bx-chevron-left ,
+.home .bx-chevron-right{
+    font-size: 2rem ;
+    font-weight: 300;
+   
+}
+
+.products .offer-75-content h2{
+    font-size: 0.75rem;
+}
+
+.special {
+    padding: 4rem 0rem;
+}
+.special .countdown-container .countdown-counter li{
+    padding: 0.7rem 0.3rem;
+    width: 20%;
+}
+
+.footer{
+    font-size: 0.4rem;
+    line-height: 10px;
+   
+}
+
+
